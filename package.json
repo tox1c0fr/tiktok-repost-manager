@@ -1,0 +1,19 @@
+{
+  "name": "tiktok-repost-manager",
+  "version": "1.2.0",
+  "description": "Automated CLI utility for TikTok profile repost management",
+  "main": "remover.js",
+  "scripts": {
+    "start": "node remover.js"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "ora": "^5.4.1",
+    "puppeteer": "^23.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "license": "MIT"
+}
