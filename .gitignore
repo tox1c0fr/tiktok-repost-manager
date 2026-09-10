@@ -1,0 +1,5 @@
+node_modules/
+.edge-profile/
+.chrome-profile/
+repost-remover.log
+*.log
